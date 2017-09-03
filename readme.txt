@@ -6,4 +6,9 @@ add a new branch dev.
 1111111
 Creating a new branch is quick.
 222222222222222
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
+Creating a new branch is quick and simple.
