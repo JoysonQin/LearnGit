@@ -3,3 +3,5 @@ git is free bbbbb ttttt ddddddd the GPL.
 git has a mutable index called stage.
 aaaaaaaaaasssssssaaaa
  lslslslslsllslslslllllllllfffffffancccccdcdcdc
+aaaaaaaaaasssssssaaaahhhhhh
+ssssssssss
