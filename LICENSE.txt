@@ -4,4 +4,4 @@ git has a mutable index 方法方法付付付 stage.
 aaaaaaaaaasssssssaaaa
  lslslslslsllslslslllllllllfffffffancccccdcdcdc
 aaaaaaaaaasssssssaaaahhhhhh
-sssssssssseeeeeeeeeee
+sssssssssseeeeeeeeeeefffdddddddddd
