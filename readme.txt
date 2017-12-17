@@ -4,6 +4,6 @@ git has a mutable index called stage.萨达所大所DDS
 git tracks changes of filesmple.222222
 888888888888888
 9090909090
-9909090
+9909090trtrtrtrtrtrt
 kkkkkkkkkkkkkjklllllllllllllllllllllllllllopopopopopopopopop''''''''hhhhhhhhh'''''''
 
