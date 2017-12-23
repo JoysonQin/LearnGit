@@ -3,7 +3,7 @@ git is aaaaaa free software distributed under the GPL.llllllllllllllllllllllllll
 git has autable index called stage.萨达所大所DDS
  mgit tracks changes of filesmple.222222
 888888888888888
-9090909090llllllllllllllllllllllll
+9090909090
 99090904545454545jjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkk
 9909090trtrtrtrtrtrtllldgfdgdfgdfgfgfdgdfggdfgdfgdfg
 kkkkkkkkkkkkkjklllllllllllllllllllllllllllopopopopopopopopop''''''''hhhhhhhhh'''''''
